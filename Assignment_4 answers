@@ -1,0 +1,301 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "616c59a0-aca5-4cdd-96fd-781f1d7736a8",
+   "metadata": {},
+   "source": [
+    "Answer 1 - Software Development is defined as the process of designing, creating, testing, and maintaining computer\n",
+    "programs and applications.SDLC consists of a precise plan that describes how to develop, maintain, replace, and \n",
+    "enhance specific software.Software developers are responsible for the activities related to software, which include\n",
+    "designing, programming,creating, implementing, testing, deploying, and maintaining software. Software developers develop\n",
+    "system software,programming software, and application software. By understanding these steps, their uses, significance, advantages,\n",
+    "and disadvantages, you can appreciate the intricacies and challenges of software development.\n",
+    "1: Planning and Requirement Gathering\n",
+    "This stage involves identifying the needs, objectives, and constraints of the project.\n",
+    "2: Design\n",
+    " This step defines how the software will work and how users will interact with it. Design Phase is crucial phase in \n",
+    "software development life cycle, this phase comes after Requirement Gathering phase.\n",
+    " 3: Implementation\n",
+    " Software Development Life Cycle   this phase comes after design phase. Output of the design phase will be implemented in the this phase.\n",
+    " 4: Testing\n",
+    " Various types of testing are performed, including unit testing, integration testing, system testing, and user acceptance testing\n",
+    "5: Deployment"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f3f23e76-ecfc-472c-ba23-d910f09a5dea",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Answer 2 - A matrix is a rectangular array of numbers, symbols, or expressions arranged in rows and columns.  In mathematics, matrices\n",
+    "are used to represent and solve systems of linear equations, perform transformations, and represent data in various fields such as \n",
+    "statistics, computer graphics, and engineering.  It serves as a fundamental concept in mathematics and various applied fields.\n",
+    "Type of matrix - \n",
+    "1. Row Matrix: A matrix with only one row.\n",
+    "    ex- A = (1 2 3)\n",
+    "2. Column Matrix: A matrix with only one column.\n",
+    "3. Square Matrix: A matrix with the same number of rows and columns.\n",
+    "4. Zero Matrix: A matrix in which all elements are zero.\n",
+    "5. Identity Matrix: A square matrix with ones on the diagonal and zeros elsewhere.\n",
+    "6. Diagonal Matrix: A square matrix in which all elements outside the main diagonal are zero.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4d3dee40-b8cc-439c-92f3-d5694d13999a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Answer 3 - LinkedIn is a professional networking platform that allows users to connect with colleagues, industry peers, and potential employers.\n",
+    "Launched in 2003, it has grown to become one of the largest social networks focused on business and career development.\n",
+    "use of linkedin -\n",
+    "1 Networking - Users can connect with colleagues, classmates, industry professionals, and potential employers, expanding their professional \n",
+    "network.LinkedIn allows users to connect with others in their industry or field, facilitating professional relationships and networking opportunities.\n",
+    "2 Job Searching - The platform offers a robust job search feature, where companies post job openings. Users can apply directly through LinkedIn \n",
+    "and receive personalized job recommendations.\n",
+    "3 Skill Development - LinkedIn Learning offers a wide range of courses on various topics, enabling users to acquire new skills and improve\n",
+    "their marketability.\n",
+    "4 Industry Insights - Users can follow industry leaders and companies to stay updated on trends, news, and insights, which can aid in professional \n",
+    "development and decision-making. It is a vital tool for job seekers, offering a direct line to numerous job opportunities and insights into hiring \n",
+    "companies.Users can follow companies, influencers, and industry groups to stay updated on trends, news, and developments in their fields.\n",
+    "5 Professional Branding -  Users can showcase their skills, experience, and accomplishments through their profiles. This digital resume helps \n",
+    "establish a professional online presence, enhancing visibility to recruiters.   This digital resume can significantly enhance visibility and \n",
+    "credibility, helping individuals stand out in a competitive job market."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3a419519-5fb9-4aea-95f5-3b7d61ea84c7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Answer4 - Object-oriented Programming is a programming paradigm that uses objects and classes in programming. It aims to implement\n",
+    "real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of object-oriented \n",
+    "Programming is to bind the data and the functions that work together as a single unit so that no other part of the code can access\n",
+    "this data. There are 4 types of oops in Python which are as follows:   \n",
+    "1. Inheritance -  Inheritance is the capability of one class to derive or inherit the properties from another class.  \n",
+    "2. polymorphisms - Polymorphism allows methods to do different things based on the object that it is acting upon. It enables objects\n",
+    "of different classes to be treated as objects of a common superclass.   \n",
+    "3. Encapsulation - Encapsulation is one of the fundamental concepts in object-oriented programming. It describes the idea of wrapping\n",
+    "data and the methods that work on data within one unit.   \n",
+    "4. Abstraction - Abstraction is the concept of hiding complex realities while exposing only the necessary parts."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "7eceb91b-d758-4428-9b28-7eb3318b295c",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2898116850.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  Cell \u001b[1;32mIn[3], line 1\u001b[1;36m\u001b[0m\n\u001b[1;33m    Answer5 -\u001b[0m\n\u001b[1;37m              ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Answer5 - "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eca370aa-8801-4a26-8e84-8846e8e388f2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "pygame 2.6.1 (SDL 2.28.4, Python 3.12.4)\n",
+      "Hello from the pygame community. https://www.pygame.org/contribute.html\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pygame\n",
+    "import time\n",
+    "import random\n",
+    "\n",
+    "# Initialize Pygame\n",
+    "pygame.init()\n",
+    "\n",
+    "# Define colors\n",
+    "white = (255, 255, 255)\n",
+    "yellow = (255, 255, 102)\n",
+    "black = (0, 0, 0)\n",
+    "red = (213, 50, 80)\n",
+    "green = (0, 255, 0)\n",
+    "blue = (50, 153, 213)\n",
+    "\n",
+    "# Set display dimensions\n",
+    "width = 600\n",
+    "height = 400\n",
+    "display = pygame.display.set_mode((width, height))\n",
+    "pygame.display.set_caption('Snake Game')\n",
+    "\n",
+    "# Set the clock\n",
+    "clock = pygame.time.Clock()\n",
+    "snake_block = 10\n",
+    "snake_speed = 15\n",
+    "\n",
+    "# Fonts\n",
+    "font_style = pygame.font.SysFont(\"bahnschrift\", 25)\n",
+    "score_font = pygame.font.SysFont(\"comicsansms\", 35)\n",
+    "\n",
+    "def your_score(score):\n",
+    "    value = score_font.render(\"Score: \" + str(score), True, black)\n",
+    "    display.blit(value, [0, 0])\n",
+    "\n",
+    "def our_snake(snake_block, snake_list):\n",
+    "    for x in snake_list:\n",
+    "        pygame.draw.rect(display, black, [x[0], x[1], snake_block, snake_block])\n",
+    "\n",
+    "def message(msg, color):\n",
+    "    mesg = font_style.render(msg, True, color)\n",
+    "    display.blit(mesg, [width / 6, height / 3])\n",
+    "\n",
+    "def gameLoop():  # creating a function\n",
+    "    game_over = False\n",
+    "    game_close = False\n",
+    "\n",
+    "    x1 = width / 2\n",
+    "    y1 = height / 2\n",
+    "\n",
+    "    x1_change = 0\n",
+    "    y1_change = 0\n",
+    "\n",
+    "    snake_List = []\n",
+    "    Length_of_snake = 1\n",
+    "\n",
+    "    foodx = round(random.randrange(0, width - snake_block) / 10.0) * 10.0\n",
+    "    foody = round(random.randrange(0, height - snake_block) / 10.0) * 10.0\n",
+    "\n",
+    "    while not game_over:\n",
+    "\n",
+    "        while game_close == True:\n",
+    "            display.fill(blue)\n",
+    "            message(\"You Lost! Press C-Play Again or Q-Quit\", red)\n",
+    "            your_score(Length_of_snake - 1)\n",
+    "            pygame.display.update()\n",
+    "\n",
+    "            for event in pygame.event.get():\n",
+    "                if event.type == pygame.KEYDOWN:\n",
+    "                    if event.key == pygame.K_q:\n",
+    "                        game_over = True\n",
+    "                        game_close = False\n",
+    "                    if event.key == pygame.K_c:\n",
+    "                        gameLoop()\n",
+    "\n",
+    "        for event in pygame.event.get():\n",
+    "            if event.type == pygame.QUIT:\n",
+    "                game_over = True\n",
+    "            if event.type == pygame.KEYDOWN:\n",
+    "                if event.key == pygame.K_LEFT:\n",
+    "                    x1_change = -snake_block\n",
+    "                    y1_change = 0\n",
+    "                elif event.key == pygame.K_RIGHT:\n",
+    "                    x1_change = snake_block\n",
+    "                    y1_change = 0\n",
+    "                elif event.key == pygame.K_UP:\n",
+    "                    y1_change = -snake_block\n",
+    "                    x1_change = 0\n",
+    "                elif event.key == pygame.K_DOWN:\n",
+    "                    y1_change = snake_block\n",
+    "                    x1_change = 0\n",
+    "\n",
+    "        if x1 >= width or x1 < 0 or y1 >= height or y1 < 0:\n",
+    "            game_close = True\n",
+    "\n",
+    "        x1 += x1_change\n",
+    "        y1 += y1_change\n",
+    "        display.fill(blue)\n",
+    "        pygame.draw.rect(display, green, [foodx, foody, snake_block, snake_block])\n",
+    "        snake_Head = []\n",
+    "        snake_Head.append(x1)\n",
+    "        snake_Head.append(y1)\n",
+    "        snake_List.append(snake_Head)\n",
+    "        if len(snake_List) > Length_of_snake:\n",
+    "            del snake_List[0]\n",
+    "\n",
+    "        for x in snake_List[:-1]:\n",
+    "            if x == snake_Head:\n",
+    "                game_close = True\n",
+    "\n",
+    "        our_snake(snake_block, snake_List)\n",
+    "        your_score(Length_of_snake - 1)\n",
+    "\n",
+    "        pygame.display.update()\n",
+    "\n",
+    "        if x1 == foodx and y1 == foody:\n",
+    "            foodx = round(random.randrange(0, width - snake_block) / 10.0) * 10.0\n",
+    "            foody = round(random.randrange(0, height - snake_block) / 10.0) * 10.0\n",
+    "            Length_of_snake += 1\n",
+    "\n",
+    "        clock.tick(snake_speed)\n",
+    "\n",
+    "    pygame.quit()\n",
+    "    quit()\n",
+    "\n",
+    "gameLoop()\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eafc6c0f-4067-4670-8327-6fa199207033",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "python snake_game.py\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b13292ed-5a3f-4bb8-8d9c-295e4ec78ff3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pip install pygame"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "70dcb4e2-f522-4565-829a-b3790566b3c3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
